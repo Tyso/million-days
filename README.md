@@ -1,3 +1,3 @@
 # million-days
-Hello everyone , this is a website for fun and entertainment in which you can play stone paper scissor
+Hello everyone , this is a game for fun and entertainment in which you can play stone paper scissor alone as a user and there will be fun in alone
 
