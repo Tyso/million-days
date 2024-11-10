@@ -4,7 +4,7 @@ Hello everyone , this is a game for fun and entertainment in which you can play 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Rules
 - Use only key like (0,1,2).
-- Restart the code to play once more time. 
+- Restart the code to play once more time.
 ## THANK YOU
 DON'T FORGET TO STAR REPOSITORY.
 
